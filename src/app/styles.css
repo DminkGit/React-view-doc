@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  /* styles.css hoặc component.module.css */
+.docViewerContainer {
+  height: 100vh; /* Bạn có thể thay đổi giá trị này theo ý muốn */
+  /* overflow: auto; Đảm bảo nội dung tràn sẽ có thanh cuộn */
+  width: 100vw;
+  /* margin: auto; */
+}
